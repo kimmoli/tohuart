@@ -1,0 +1,19 @@
+Qty Value               Device              Package            Parts                                       Description                
+1                       M09VPS              M09VP              X4                                          SUB-D                      
+1   0R                  R-EU_R0603          R0603              R7                                          RESISTOR, European symbol  
+10  100n                C-EUC0603           C0603              C5, C6, C7, C8, C9, C10, C11, C12, C13, C14 CAPACITOR, European symbol 
+2   10p                 C-EUC0603           C0603              C3, C4                                      CAPACITOR, European symbol 
+3   1u                  C-EUC0603           C0603              C1, C2, C15                                 CAPACITOR, European symbol 
+2   22R                 R-EU_R0603          R0603              R5, R6                                      RESISTOR, European symbol  
+1   24LC02BT-I/OT       24LC02BT-I/OT       SOT95P280X145-5N   D3                                          Serial EEPROM              
+1   25MHz               XTAL_3225_SMD       X_3225             G1                                          CRYSTAL CLOCK OSCILLATORS  
+1   2N7002K             2N7002K             SOT23              V2                                                                     
+5   2k15                R-EU_R0603          R0603              R1, R2, R3, R4, R8                          RESISTOR, European symbol  
+1   GREEN 0603          LEDCHIP-LED0603     CHIP-LED0603       H1                                          LED                        
+1   MCP1700T-1802E/TT   MCP1700T-1802E/TT   SOT23              N1                                                                     
+1   PIIKKIRIMA-8        PIIKKIRIMA-8        PIIKKIRIMA-8       X3                                                                     
+1   RT9818C-29GV        RT9818C-29GV        SOT23              D1                                                                     
+1   SC16IS850L-HVQFN-24 SC16IS850L-HVQFN-24 HVQFN-24           D2                                                                     
+1   SP3203E             SP3203E             TSSOP-20           D4                                                                     
+1   TFBS4711            TFBS4711            TFBS4711           H2                                                                     
+1   TXB0106PW           TXB0106PW           TSSOP-16-065       D5                                                                     
